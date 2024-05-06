@@ -6,9 +6,13 @@ Repository GitHub per il corso di approfondimento in Flutter
 -----------------------------------
 ### Create/Run Web App
 dart create --template=web <nome>
+
 cd <nome>
+
 dart pub global activate webdev
+
 webdev serve
+
 -------------
 ## Struttura :
 ### 1) Intro - 6/5/24
