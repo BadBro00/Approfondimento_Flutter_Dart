@@ -1,6 +1,2 @@
-# Flutter_Dart
-Repository GitHub per il corso di approfondimento in Flutter
------------------------------------------------------------
-
-## Struttura :
-### 1) Intro - 6/5/24
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
