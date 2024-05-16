@@ -8,7 +8,7 @@ Repository GitHub per il corso di approfondimento in Flutter
 ### Create/Run Console App
 dart create --template=console <nome>
 
-cd <nome>
+cd < nome >
 
 dart run
 
@@ -16,7 +16,7 @@ dart run
 ### Create/Run Web App
 dart create --template=web <nome>
 
-cd <nome>
+cd < nome >
 
 dart pub global activate webdev
 
