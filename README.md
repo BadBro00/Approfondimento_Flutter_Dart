@@ -21,9 +21,4 @@ cd <nome>
 dart pub global activate webdev
 
 webdev serve
-
--------------
-## Struttura :
-### 1) Intro - 6/5/24
-------------------------
 =======
